@@ -1,0 +1,378 @@
+{
+    "1": {
+        "video": "BAACAgIAAxkBAAMsagsfYBcpIfc0CouPOlsxQEsBefkAAhegAAL6MllIa-uEzrFH_nw7BA",
+        "type": "video",
+        "name": "Sevimli phonk",
+        "language": "Uzbek tilida",
+        "genre": "Jangari",
+        "views": 1
+    },
+    "2": {
+        "video": "BAACAgIAAxkBAAPsag11s3hLaASdT23b6WXhQ0qeyGEAAmCSAAKpsGhIyo7hlUDdkzo7BA",
+        "type": "video",
+        "name": "O‘rgimchak odam: Uydan uzoqda",
+        "language": "Uzbek tilida",
+        "genre": "Comedy, Fantastik",
+        "views": 0
+    },
+    "3": {
+        "video": "BAACAgIAAxkBAAPcag1xhle1hjavGJPIctEAAZBtSsNSAALxlwACqbBoSOo0f1u1wkEtOwQ",
+        "type": "video",
+        "name": "Qizil xabarnoma",
+        "language": "Uzbek",
+        "genre": "Comedy, Jangari",
+        "views": 0
+    },
+    "4": {
+        "video": "BAACAgQAAxkBAAIBRWoN366kMVMOlaIsCrzgAAHwwnGsdQACsBwAAm5AyFPv17MYEke1oTsE",
+        "type": "video",
+        "name": "Kelajak chegarasi",
+        "language": "Uzbek tilida",
+        "genre": "Jangari",
+        "views": 0
+    },
+    "5": {
+        "video": "BAACAgIAAxkBAAIBiGoN8GOX8dJN0srhXLkmyoErQxd2AAJCWwAC6_FgS_monVCWJiX6OwQ",
+        "type": "video",
+        "name": "Akula ibtidosi",
+        "language": "Uzbek",
+        "genre": "Jangari",
+        "views": 1
+    },
+    "6": {
+        "video": "BAACAgIAAxkBAAIBk2oN8R-IkXMFimfVLY1sRevDGmbNAAI5iQACDdfRSFxMsZLLHFe5OwQ",
+        "type": "video",
+        "name": "Jek Richer",
+        "language": "Uzbek tilida",
+        "genre": "Jangari",
+        "views": 0
+    },
+    "7": {
+        "video": "BAACAgQAAxkBAAIB2GoN-sP5k1UPj7vwc3IdkBSS0xd5AALFHgACYpVBU4-hIlR18zEkOwQ",
+        "type": "video",
+        "name": "Inson g‘azabi",
+        "language": "Uzbek tilida",
+        "genre": "Jangari",
+        "views": 0
+    },
+    "8": {
+        "video": "BAACAgQAAxkBAAICLGoOdvPjTGpkR9U2P9Ce-KV8yCUJAAJiDgACYv-RUNFi85rtkdQnOwQ",
+        "type": "video",
+        "name": "Overlord",
+        "language": "Uzbek tilida",
+        "genre": "Jangari",
+        "views": 0
+    },
+    "9": {
+        "video": "BAACAgQAAxkBAAICN2oOgEEc0n4mu64x7077Pqip15nLAAK1HQAC78RxUNTFWEDyAm4hOwQ",
+        "type": "video",
+        "name": "Ishchi",
+        "language": "Uzbek tilida",
+        "genre": "Jangari",
+        "views": 0
+    },
+    "10": {
+        "video": "BAACAgEAAxkBAAICRmoOurgN9hBOx_--OZLgwBjH9pyCAAKhAwACzAbZRkYqbRfMeT-iOwQ",
+        "type": "video",
+        "name": "Po‘lat odam | Superman",
+        "language": "Uzbek",
+        "genre": "Jangari, Fantastik",
+        "views": 0
+    },
+    "11": {
+        "video": "BAACAgIAAxkBAAICgGoP13srM84wlaz1-56vluGVfyIZAAKtlAAC2fQ4SsTr5JyV49rUOwQ",
+        "type": "video",
+        "name": "Urush mashinasi",
+        "language": "Uzbek tilida",
+        "genre": "Jangari",
+        "views": 0
+    },
+    "12": {
+        "video": "BAACAgQAAxkBAAICkGoQBvBtQHpFQc_DkazkCTHHA_ysAAKQJgAChe9xULlwSbtYXrQ3OwQ",
+        "type": "video",
+        "name": "Transformerlar 1",
+        "language": "Uzbek tilida",
+        "genre": "Jangari, Fantastik",
+        "views": 0
+    },
+    "13": {
+        "video": "BAACAgIAAxkBAAICr2oQNp6OWYXFL1ayuISH0cH6wFldAALecwAC1n65SDqAzyfhEPNPOwQ",
+        "type": "video",
+        "name": "Jinoyatchi, Politsiya va Iblis",
+        "language": "Uzbek tilida",
+        "genre": "Jangari",
+        "views": 0
+    },
+    "14": {
+        "video": "BAACAgIAAxkBAAICwGoQONcnBljc-RddPxj9kYpVwKc1AAJ_kQAChAzISu216xAg_dPxOwQ",
+        "type": "video",
+        "name": "Yosh Sherlok",
+        "language": "Uzbek",
+        "genre": "Jangari",
+        "views": 0
+    },
+    "15": {
+        "video": "BAACAgQAAxkBAAICy2oQQP0Lwcl6zMI1tN3KAc8wJe6oAAI7JwACYxSAUxgSIJ7grlqoOwQ",
+        "type": "video",
+        "name": "Bladshot",
+        "language": "Uzbek tilida",
+        "genre": "Jangari",
+        "views": 0
+    },
+    "16": {
+        "video": "BAACAgQAAxkBAAIC3moQcHue4yFrObsxKh1im7vFzfv-AAKWIwACBERZUEvjz3KOuap4OwQ",
+        "type": "video",
+        "name": "Devor",
+        "language": "Uzbek tilida",
+        "genre": "Jangari",
+        "views": 0
+    },
+    "17": {
+        "video": "BAACAgQAAxkBAAIC6WoQdYSzVlS4f8rF9lB2rgcYWodjAAIOCgACNmRZUkcZIJkysfRKOwQ",
+        "type": "video",
+        "name": "Yangi O‘rgimchak Odam",
+        "language": "Uzbek tilida",
+        "genre": "Fantastik, Jangari",
+        "views": 0
+    },
+    "18": {
+        "video": "BAACAgQAAxkBAAIC9GoQd6bZdV30HYnSvu1sRVy_1dpvAAJFKwACVHIAAVCamuPYTPq4gjsE",
+        "type": "video",
+        "name": "Mexanik",
+        "language": "Uzbek tilida",
+        "genre": "Jangari",
+        "views": 0
+    },
+    "19": {
+        "video": "BAACAgQAAxkBAAIDBmoQe1XxXcnATsbf9yXiVC1C7mJbAALDGwACO5vIU0J8xPYHjxv0OwQ",
+        "type": "video",
+        "name": "Qora Pantera",
+        "language": "Uzbek tilida",
+        "genre": "Jangari, Fantastik",
+        "views": 0
+    },
+    "20": {
+        "video": "BAACAgIAAxkBAAIDMmoQp2XpvVEFgp647r0zaYEwA0KyAAJNhAACqyaRSfGLAiJD4R8UOwQ",
+        "type": "video",
+        "name": "Soyaning chegarasi",
+        "language": "Uzbek tilida",
+        "genre": "Jangari",
+        "views": 0
+    },
+    "21": {
+        "video": "BAACAgQAAxkBAAIDPWoQqA9qCBhNgxiX-q6qglTJavLKAAJ9GgAC0hMAAVAngUek5fRX2DsE",
+        "type": "video",
+        "name": "Ayg‘oqchi",
+        "language": "Uzbek tilida",
+        "genre": "Jangari",
+        "views": 0
+    },
+    "22": {
+        "video": "BAACAgIAAxkBAAIDT2oRLYmdSUhELw_2r9XVXad2ZlA2AAIfhgACjpA5SWjPvnWYZiN_OwQ",
+        "type": "video",
+        "name": "Urush",
+        "language": "Uzbek tilida",
+        "genre": "Jangari",
+        "views": 0
+    },
+    "23": {
+        "video": "BAACAgQAAxkBAAIDYGoRdW4nOR0kE4vNN7c8Y-2r5kEHAAICHwACvQABqFH7XLq4CbvPXzsE",
+        "type": "video",
+        "name": "Tron Ares",
+        "language": "Uzbek tilida",
+        "genre": "Jangari",
+        "views": 0
+    },
+    "24": {
+        "video": "BAACAgIAAxkBAAIDfWoRoUDaCiemQdK1ecw8GGRwKPebAAIjGwACoR05SwnZ-T42PAZhOwQ",
+        "type": "video",
+        "name": "Texasdagi qonli qirg‘in",
+        "language": "Uzbek tilida",
+        "genre": "Jangari",
+        "views": 0
+    },
+    "25": {
+        "video": "BAACAgQAAxkBAAIDkGoRuC3bEy9zI8rF-dIKtFsBdOQ8AAKjHQACqgdJUNzMTPA1FM9VOwQ",
+        "type": "video",
+        "name": "Panda operatsiyasi 2",
+        "language": "Uzbek tilida",
+        "genre": "Comedy",
+        "views": 0
+    },
+    "26": {
+        "video": "BAACAgIAAxkBAAIEHGoTHkjeZ7gwDaObGM15bGYsrMiOAAIEmgACmgw4SRslsJzHn8hSOwQ",
+        "type": "video",
+        "name": "Diplomat",
+        "language": "Uzbek tilida",
+        "genre": "Dramatik",
+        "views": 0
+    },
+    "27": {
+        "video": "BAACAgIAAxkBAAIEXGoTtgeS4lneSG8P7ZwdpcytWYgDAAI_oQAC92NYSGHrFD2FvvJeOwQ",
+        "type": "video",
+        "name": "Milliarderlar klubi",
+        "language": "Uzbek tilida",
+        "genre": "Aqliy faoliyat",
+        "views": 0
+    },
+    "28": {
+        "video": "BAACAgIAAxkBAAPwahWGwRoGVcO77rIUNSlpLcGCQ_4AAn-cAAK1rPhLTJSUESwQkAY7BA",
+        "type": "video",
+        "name": "Megre tarmoqni tartibga soladi",
+        "language": "Uzbek tilida",
+        "genre": "Detektiv",
+        "views": 0
+    },
+    "29": {
+        "video": "BAACAgIAAxkBAAPwahWGwRoGVcO77rIUNSlpLcGCQ_4AAn-cAAK1rPhLTJSUESwQkAY7BA",
+        "type": "video",
+        "name": "Onamga xat",
+        "language": "Uzbek tilida",
+        "genre": "Dramatik",
+        "views": 0
+    },
+    "30": {
+        "video": "BAACAgIAAxkBAAIBA2oVh2itxBIgHah-V28Q9pgsbQ6GAALlqQACKwEgSyPkeYzfVIy1OwQ",
+        "type": "video",
+        "name": "Qotilning xotiralari",
+        "language": "Uzbek tilida",
+        "genre": "Jangari",
+        "views": 0
+    },
+    "31": {
+        "video": "BAACAgIAAxkBAAIGT2oVimPUK_ysL_imuXIyl00xXsgvAALEmgACagmoSNCzBIGgJZvYOwQ",
+        "type": "video",
+        "name": "Himoyachining qulashi",
+        "language": "Uzbek tilida",
+        "genre": "Jangari",
+        "views": 0
+    },
+    "32": {
+        "video": "BAACAgQAAyEFAAThqb42AAMjahWaLHWZ1Gzu92LtaP1d8KRdXscAAugaAALqUchT_eHTekdylnE7BA",
+        "type": "video",
+        "name": "Cho‘qqi",
+        "language": "Uzbek tilida",
+        "genre": "Jangari",
+        "views": 0
+    },
+    "33": {
+        "video": "BAACAgEAAxkBAAIGwGoVxqaXX0fNrIWoO-vHMbPvnfU7AAJwAwACG9twRjR4-vMXGVFOOwQ",
+        "type": "video",
+        "name": "Allohning elchisi Muhammad (S.A.V)",
+        "language": "Uzbek tilida",
+        "genre": "Tarixiy ma'lumot",
+        "views": 1
+    },
+    "34": {
+        "video": "BAACAgQAAxkBAAIG0WoV0imBpY0IpiG_CD2ZO94RAdg2AALSHgACGVhZU9ccBFmMx1mpOwQ",
+        "type": "video",
+        "name": "Sarasvati",
+        "language": "Uzbek tilida",
+        "genre": "Detektiv",
+        "views": 2
+    },
+    "35": {
+        "video": "BAACAgQAAxkBAAIG22oV09yVv3-c-3KwUUGt7uMZPmHlAAL9HQACR2ZZUy6dP3xMLFHKOwQ",
+        "type": "video",
+        "name": "Yo‘qolgan ayol",
+        "language": "Uzbek tilida",
+        "genre": "Kriminal",
+        "views": 1
+    },
+    "36": {
+        "video": "BAACAgIAAxkBAAIHB2oWUlGw7hKETeveg8aYQ1Y28Mr0AAI1nAACo0ZgSBlUGCYYv6NnOwQ",
+        "type": "video",
+        "name": "Chon-l",
+        "language": "Uzbek tilida",
+        "genre": "Ilmiy fantastika",
+        "views": 1
+    },
+    "37": {
+        "video": "BAACAgIAAxkBAAIH7moXG8iOzoAJa6R25Ti9MR2cXNREAAJVJgACuw7pS6tZM_Ae12dcOwQ",
+        "type": "video",
+        "name": "Mahluq ovchisi",
+        "language": "Uzbek tilida",
+        "genre": "Jangari",
+        "views": 15
+    },
+    "38": {
+        "video": "BAACAgQAAxkBAAIIj2oX-hddA5C4rPzJHNExsnc42SRCAALCHQACAeP5UzQiZdrnAwirOwQ",
+        "type": "video",
+        "name": "Mortal Kombat 2",
+        "language": "Uzbek tilida",
+        "genre": "Jangari",
+        "views": 11
+    },
+    "39": {
+        "video": "BAACAgEAAxkBAAIIwGoYGxuDhGiobLuiMAojGK-x92rUAAL0CwAC20joRTsvolIXJnSaOwQ",
+        "type": "video",
+        "name": "Uddaburon yigitlar 4",
+        "language": "Uzbek tilida",
+        "genre": "Comedy, Jangari",
+        "views": 43
+    },
+    "40": {
+        "video": "BAACAgQAAxkBAAII52oYdQ_gZ8woB2HYSeojJeQbP7OKAAIXEgACgIIBUyMha7cP7uVtOwQ",
+        "type": "video",
+        "name": "Malika va ajdarho",
+        "language": "Uzbek tilida",
+        "genre": "Jangari",
+        "views": 6
+    },
+    "41": {
+        "video": "BAACAgQAAxkBAAII-2oYhgcGbEYL2KY9RHDapp5VeboTAAJrEQACF_GgUbwua7OCVw75OwQ",
+        "type": "video",
+        "name": "Qushlar qutisi",
+        "language": "Uzbek tilida",
+        "genre": "Jangari",
+        "views": 10
+    },
+    "42": {
+        "video": "BAACAgQAAxkBAAIJH2oZFXLXKEqgqVuZkAuFkY_WPfGQAALOHQACsTnoU4A77SQoblJlOwQ",
+        "type": "video",
+        "name": "Zindonlar va ajdarho",
+        "language": "Uzbek tilida",
+        "genre": "Jangari",
+        "views": 13
+    },
+    "43": {
+        "video": "BAACAgQAAxkBAAIJdGoZJbH_9zpvlRsYgC7cSI7Oh0_5AAIpFAACToIQUoOYtPIfm54_OwQ",
+        "type": "video",
+        "name": "Maymunlar sayyorasi 4",
+        "language": "Uzbek tilida",
+        "genre": "Jangari",
+        "views": 8
+    },
+    "44": {
+        "video": "BAACAgQAAxkBAAIJ12oZguEPHwQoh6VtwZvpsrBZtAhYAAJ1EgACBRzpUoF78N4nt9zKOwQ",
+        "type": "video",
+        "name": "Venom 3",
+        "language": "Uzbek tilida",
+        "genre": "Fantastika",
+        "views": 85
+    },
+    "45": {
+        "video": "BAACAgIAAxkBAAIKGGoZxafcDDN1D_4SKw6oBS_hj97iAAI3lwACPHFRSkiYDqYbkxYLOwQ",
+        "type": "video",
+        "name": "Ustasi faranglar",
+        "language": "Uzbek tilida",
+        "genre": "Hiyla, Focus",
+        "views": 14
+    },
+    "46": {
+        "video": "BAACAgIAAxkBAAIMkWoaRCJXNtJD9-PqoDcc9m3bqcbxAALOnQACRCIpSATSekV7tPFbOwQ",
+        "type": "video",
+        "name": "Xavfli duet",
+        "language": "Uzbek tilida",
+        "genre": "Jangari",
+        "views": 34
+    },
+    "47": {
+        "video": "BAACAgIAAxkBAAIMm2oaRctUHJBX-xa2GRnRhWMIwDUGAALXlgAClE7RSKPX9ltkrvS0OwQ",
+        "type": "video",
+        "name": "57 Soniya",
+        "language": "Uzbek tilida",
+        "genre": "Ilmiy fantastik",
+        "views": 3
+    }
+}
